@@ -1,7 +1,7 @@
 KOSMOS_3.0
 ==========
 
-.. image:: docs/_static/images/inte3D_legende.png
+.. image:: /_static/images/inte3D_legende.png
    :scale: 20 %
 
 Cette œuvre est mise à disposition selon les termes de la `Licence
