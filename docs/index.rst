@@ -1,7 +1,7 @@
 KOSMOS_3.0
 ==========
 
-.. image:: docs/pictures_assembly_process/Camera_case/DSC_0142.jpg
+.. image:: https://github.com/KonkArLab/KOSMOS_rst/blob/8aa15f412003af7ab56cabcb8205096d398a7be6/docs/pictures_assembly_process/Camera_case/DSC_0142.JPG
 
 Cette œuvre est mise à disposition selon les termes de la `Licence
 Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage
