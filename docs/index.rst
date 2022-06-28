@@ -1,4 +1,4 @@
-KOSMOS_3.0
+Guide d'assemblage
 ==========
 
 .. image:: docs/_static/images/inte3D_legende.png
