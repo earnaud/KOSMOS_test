@@ -1,0 +1,1966 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   version="1.1"
+   id="svg1033"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Decoupe_flasques_PMMA.svg"
+   inkscape:export-filename="/media/guillaume/D-PC/KAL/Technique/ReducteurV3.0/legende_decoupePMMAA3.png"
+   inkscape:export-xdpi="60.476189"
+   inkscape:export-ydpi="60.476189">
+  <defs
+     id="defs1027" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="752.79006"
+     inkscape:cy="479.92859"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1872"
+     inkscape:window-height="1016"
+     inkscape:window-x="48"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1030">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2"
+       shaper:pathType="exterior"
+       shaper:cutDepth="0"
+       d="m 82.836901,131.4 h 16.4 v -6 h -1 v -2.7 h 1 v -1.5 a 0.49999999,0.49999999 0 0 1 0.5,-0.5 h 2.399999 a 0.49999999,0.49999999 0 0 1 0.5,0.5 v 1.5 h 1 v 2.7 h -1 v 6 h 16.4 v 5.1 h 35.8 v -5.1 h 16.35 v -6 h -1 v -2.7 h 1 v -1.5 a 0.49999999,0.49999999 0 0 1 0.5,-0.5 h 2.4 a 0.49999999,0.49999999 0 0 1 0.5,0.5 v 1.5 h 1 v 2.7 h -1 v 6 h 16.35 v -12.475 h -5.4 V 108.15 h -6 v 1 h -2.7 v -0.79765 h -1.5 a 0.49999999,0.49999999 0 0 1 -0.5,-0.5 v -2.4 a 0.49999999,0.49999999 0 0 1 0.5,-0.5 h 1.5 V 103.75 h 2.7 v 1 h 6 V 93.975002 h 5.4 V 81.5 h -16.35 v 6.000002 h 1 v 2.7 h -1 v 1.5 a 0.49999999,0.49999999 0 0 1 -0.5,0.5 h -2.4 a 0.49999999,0.49999999 0 0 1 -0.5,-0.5 v -1.5 h -1 v -2.7 h 1 V 81.5 h -16.35 v -5.399999 h -35.8 V 81.5 h -16.4 v 6.000002 h 1 v 2.7 h -1 v 1.5 a 0.49999999,0.49999999 0 0 1 -0.5,0.5 h -2.399999 a 0.49999999,0.49999999 0 0 1 -0.5,-0.5 v -1.5 h -1 v -2.7 h 1 V 81.5 h -16.4 v -5.399999 h -35.8 V 81.5 h -16.35001 v 6.000002 h 1 v 2.7 h -1 v 1.5 a 0.49999999,0.49999999 0 0 1 -0.5,0.5 h -2.4 a 0.49999999,0.49999999 0 0 1 -0.5,-0.5 v -1.5 h -1 v -2.7 h 1 V 81.5 h -16.35 v 12.475002 h 5.4 V 104.75 h 6 v -1 h 2.7 v 1.20235 h 1.5 a 0.49999999,0.49999999 0 0 1 0.5,0.5 v 2.4 a 0.49999999,0.49999999 0 0 1 -0.5,0.5 h -1.5 V 109.15 h -2.7 v -1 h -6 v 10.775 h -5.4 V 131.4 h 16.35 v -6 h -1 v -2.7 h 1 v -1.5 a 0.49999999,0.49999999 0 0 1 0.5,-0.5 h 2.4 a 0.49999999,0.49999999 0 0 1 0.5,0.5 v 1.5 h 1 v 2.7 h -1 v 6 h 16.35001 v 5.1 h 35.8 z"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g1594"
+       transform="matrix(9.9999998,0,0,9.9999998,164.99996,11.000053)">
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.99999273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-3"
+         transform="matrix(1,0,0,-1,4.9882235,6.1)"
+         shaper:pathType="exterior"
+         shaper:cutDepth="0"
+         d="M 0,0.54 V 0 h 4.98 v 0.54 h 2.34 v 0.6 h -0.1 v 0.27 h 0.1 V 1.56 A 0.05,0.05 -180 0 0 7.37,1.61 H 7.61 A 0.05,0.05 90 0 0 7.66,1.56 V 1.41 h 0.1 V 1.14 h -0.1 v -0.6 h 1.8 v 1.2630885 h 0.5082235 v 2.475 L 9.46,4.2875 V 5.56 h -1.8 v -0.6 h 0.1 V 4.69 H 7.66 V 4.54 A 0.05,0.05 0 0 0 7.61,4.49 H 7.37 A 0.05,0.05 -90 0 0 7.32,4.54 v 0.15 h -0.1 v 0.27 h 0.1 v 0.6 H 4.98 V 6.1 H 0 V 5.56 h -2.34 v -0.6 h 0.1 V 4.69 h -0.1 V 4.54 A 0.05,0.05 0 0 0 -2.39,4.49 h -0.24 a 0.05,0.05 -90 0 0 -0.05,0.05 v 0.15 h -0.1 v 0.27 h 0.1 v 0.6 h -1.8 V 4.2875 L -4.9882235,4.27809 v -2.475 H -4.48 V 0.54 h 1.8 v 0.6 h -0.1 v 0.27 h 0.1 v 0.15 a 0.05,0.05 -180 0 0 0.05,0.05 h 0.24 A 0.05,0.05 90 0 0 -2.34,1.56 V 1.41 h 0.1 V 1.14 h -0.1 v -0.6 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.99999273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4"
+         transform="matrix(1,0,0,-1,4.9882235,6.1)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 9.5382235,3.05 a 0.16,0.16 0 1 1 0.32,0 0.16,0.16 0 1 1 -0.32,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.99999273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path6"
+         transform="matrix(1,0,0,-1,4.9882235,6.1)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m -4.8782235,3.05 a 0.16,0.16 0 1 1 0.32,0 0.16,0.16 0 1 1 -0.32,0 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1812"
+       transform="matrix(9.9999999,0,0,9.9999999,10.836902,141.32143)">
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path2-6"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="exterior"
+         shaper:cutDepth="0"
+         d="m 13.87,-10 h 3.4 a 0.2,0.2 -90 0 1 0.2,0.2 V -5 h -0.53 v 5 h 0.53 V 4.8 A 0.2,0.2 0 0 1 17.27,5 h -3.4 V 4.47 h -3.6 V 5 H 6.67 V 4.47 H 3.07 V 5 h -3.4 A 0.2,0.2 90 0 1 -0.53,4.8 V 0 H 0 v -5 h -0.53 v -4.8 a 0.2,0.2 -180 0 1 0.2,-0.2 h 3.4 v 0.53 h 3.6 V -10 h 3.6 v 0.53 h 3.6 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path4-7"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.044081,0.472945 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path6-5"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.419489,2.6326238 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path8"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.201985,0.5632172 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path10"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.21814,1.3902451 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path12"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.811819,0.2210364 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path14"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.533464,2.8694066 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path16"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.835315,2.4592227 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path18"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.858543,-0.2117583 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path20"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.962801,1.3170752 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path22"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.951312,2.8694066 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path24"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.353061,0.975 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path26"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.8814574,-4.7882417 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path28"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.3605113,-7.6326238 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path30"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.2294011,-8.0987046 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path32"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.3379141,-7.2025871 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path34"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.4889878,-5.0842203 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path36"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.4972092,-5.5632172 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path38"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.2061329,-6.0673762 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path40"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.513364,-6.3902451 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path42"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.3393047,-5.472945 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path44"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.9404375,-5.6505322 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path46"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.5780147,-5.5632172 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path48"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.9299426,-6.6463398 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path50"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.1070433,-5.2210364 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path52"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 1.8532631,-7.0407797 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path54"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.0020675,-5.625 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path56"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.7759193,-5.472945 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path58"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.2171085,-7.6709786 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path60"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.537612,-5.1 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path62"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.7773099,-7.2025871 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path64"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.5462362,-5.0842203 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path66"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.2465356,-7.8694066 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path68"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 5.1819609,-7.0407797 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path70"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 5.2580253,-6.3170752 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path72"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.672957,0.2210364 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path74"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.645214,0.6505322 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path76"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.242388,0.1 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path78"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.706844,0.625 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path80"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.910909,1.0673762 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path82"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.454824,2.2 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path84"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.737932,0.625 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path86"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.522892,2.6709786 a 0.1,0.1 0 1 1 0.199999,0 0.1,0.1 0 1 1 -0.199999,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path88"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.510599,3.0987046 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path90"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.850057,1.6463398 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path92"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.029953,2.2 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path94"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.689462,2.4592227 a 0.06,0.06 0 1 1 0.119999,0 0.06,0.06 0 1 1 -0.119999,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path96"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.481975,1.3170752 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path98"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.193764,0.0842203 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path100"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.282791,0.5632172 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path102"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.260997,1.8244678 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path104"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.482086,2.2025871 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path106"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.886737,2.0407797 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path108"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.634719,1.6463398 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path110"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.306636,1.3902451 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path112"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.934177,3.0987046 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path114"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.263779,1.8244678 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path116"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.7500475,-7.2 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path118"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.1537665,-4.7882417 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path120"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.8181154,-7.6709786 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path122"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.9846855,-7.4592227 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path124"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.5562213,-6.8244678 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path126"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.1452813,-6.6463398 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path128"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.3251764,-7.2 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path130"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 1.7771987,-6.3170752 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path132"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.4669387,-5.975 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path134"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.8058229,-8.0987046 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path136"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.8690911,-6.0673762 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path138"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.7147126,-7.6326238 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path140"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 5.0331564,-5.625 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path142"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.6482853,-5.975 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path144"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.1747865,-5.6505322 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path146"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.5590026,-6.8244678 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path148"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.60186,-6.3902451 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path150"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.9681807,-5.2210364 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path152"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.557612,-7.55 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path154"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.517612,-8.25 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path156"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.1305385,-7.4592227 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path158"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.8286884,-7.8694066 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path160"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.879563,0.6505322 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path162"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.222388,3.25 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path164"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.586234,-0.2117583 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path166"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.04269,2.2025871 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path168"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.558039,2.0407797 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path170"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.251012,0.0842203 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path172"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.921885,2.6709786 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path174"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.573867,1.0673762 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path176"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.262388,2.55 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path178"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.480695,0.472945 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path180"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.171715,0.975 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path182"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.065287,2.6326238 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path184"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="M 0.4,-3.4199998 A 0.1699999,0.1699999 -90 0 0 0.4,-3.08 h 1.77 a 0.17,0.17 90 0 0 0,-0.34 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path186"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 17.055,2.5 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path188"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 17.055,-7.5 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path190"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m -0.415,2.5 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path192"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 15.575,-8.6764706 a 0.395,0.395 0 1 1 0.79,0 0.395,0.395 0 1 1 -0.79,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path194"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 8.32,4.735 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path196"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m -0.415,-7.5 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path198"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 15.52,4.735 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path200"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 1.12,4.735 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path202"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 9.66,-2.5 a 1.66,1.66 0 1 1 3.32,0 1.66,1.66 0 1 1 -3.32,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path204"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 5.225,-2.5 a 0.395,0.395 0 1 1 0.79,0 0.395,0.395 0 1 1 -0.79,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path206"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 15.575,3.6764706 a 0.395,0.395 0 1 1 0.79,0 0.395,0.395 0 1 1 -0.79,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path208"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 1.12,-9.735 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path210"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 8.32,-9.735 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path212"
+         transform="matrix(1,0,0,-1,0.53,5)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 15.52,-9.735 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2044"
+       transform="matrix(9.9999999,0,0,9.9999999,195,140.55833)">
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path2-35"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="exterior"
+         shaper:cutDepth="0"
+         d="m 13.87,-5 h 3.4 a 0.2,0.2 -90 0 1 0.2,0.2 V 0 h -0.53 v 5 h 0.53 v 4.8 a 0.2,0.2 0 0 1 -0.2,0.2 h -3.4 V 9.47 h -3.6 V 10 H 6.67 V 9.47 H 3.07 V 10 h -3.4 A 0.2,0.2 90 0 1 -0.53,9.8 V 5 H 0 V 0 h -0.53 v -4.8 a 0.2,0.2 -180 0 1 0.2,-0.2 h 3.4 v 0.53 h 3.6 V -5 h 3.6 v 0.53 h 3.6 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path4-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.557411,4.6407271 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path6-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.935639,5.9022925 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path8-9"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.616829,7.9920639 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path10-1"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.996159,7.6398938 a 0.1,0.1 0 1 1 0.199999,0 0.1,0.1 0 1 1 -0.199999,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path12-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.657397,6.379204 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path14-7"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.774497,7.3020247 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path16-0"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.114069,5.5184028 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path18-9"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.316256,6.0643171 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path20-3"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.70732,5.1019218 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path22-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.062873,5.1686236 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path24-0"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.691191,5.6166793 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path26-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.8799391,-0.9832368 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path28-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.4811533,-0.2912226 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path30-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.7714856,-2.1608131 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path32-1"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.7993996,-2.723271 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path34-8"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.6049975,0.3015774 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path36-7"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.1825889,0.3592729 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path38-9"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.3960784,-2.9625717 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path40-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.6136629,0.1131125 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path42-0"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 5.1618516,-1.7531971 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path44-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.7438415,-2.6398938 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path46-3"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.4512398,-2.140749 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path48-7"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.2792383,-2.0798242 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path50-5"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.0455029,-2.3020247 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path52-9"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.1953373,0.0895187 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path54-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.2179049,-2.0907226 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path56-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.5770232,-0.0442419 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path58-8"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.3661289,-2.5679569 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path60-9"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.899925,0.4815963 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path62-7"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 5.5138985,-0.7940841 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path64-3"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.3345985,-0.3258399 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path66-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.911555,-0.2178286 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path68-1"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.5010813,-1.6452713 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path70-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.1178139,-0.5333315 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path72-9"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.166337,4.8868875 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path74-3"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.880857,6.7546809 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path76-1"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.135003,4.6984226 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path78-9"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.063698,6.8283882 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path80-4"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.564107,5.1496569 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path82-7"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.702186,5.5333315 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path84-8"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.9406,7.723271 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path86-4"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.929419,7.2451451 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path88-5"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.98774,7.6658156 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path90-0"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.210753,7.2843293 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path92-3"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.338847,5.2912226 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path94-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.485402,5.3258399 a 0.06,0.06 0 1 1 0.119999,0 0.06,0.06 0 1 1 -0.119999,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path96-1"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.17943,6.5202768 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path98-0"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.602095,7.0907226 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path100-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.278919,6.6452713 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path102-3"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.226102,5.7940841 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path104-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.432163,7.2026698 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path106-0"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.552064,5.6591768 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path108-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.840075,4.5184037 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path110-1"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.008514,7.1608131 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path112-5"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.584663,4.9104813 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path114-5"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.142864,5.5965805 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path116-4"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.8843614,-0.9022925 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path118-7"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.7563021,-1.8283882 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path120-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.6771358,-0.5965805 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path122-5"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 5.5605697,-1.5202768 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path124-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 5.175893,-0.1496569 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path126-9"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.228202,-2.5218005 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path128-3"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.1231715,-2.9920639 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path130-7"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.0726804,-0.1019218 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path132-4"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 5.2461177,-1.1771754 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path134-5"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 5.0888094,-0.6166793 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path136-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.6092471,-2.2843293 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path138-5"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.6659306,-0.5184028 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path140-4"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.4637443,-1.0643171 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path142-7"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.7171269,-0.1686236 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path144-4"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.1879356,-0.6591768 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path146-4"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.082603,-1.379204 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path148-3"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.8505815,-2.2451451 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path150-0"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 3.7922601,-2.6658156 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path152-7"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 5.3078368,-2.2026698 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path154-8"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.8211618,-1.3343087 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path156-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.9079418,-1.4189525 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path158-8"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 2.939143,-1.7546809 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path160-8"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.912058,6.4189525 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path162-4"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.533882,6.1771754 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path164-3"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.413871,7.5679569 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path166-1"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.460762,7.0798242 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path168-4"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.618148,6.7531971 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path170-9"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 14.162977,5.0442419 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path172-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.551798,7.5218005 a 0.08,0.08 0 1 1 0.16,0 0.08,0.08 0 1 1 -0.16,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path174-0"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.36876,7.140749 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path176-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.998838,6.3343087 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path178-8"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 13.343922,7.9625717 a 0.1,0.1 0 1 1 0.2,0 0.1,0.1 0 1 1 -0.2,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path180-9"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 12.908445,5.2178286 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path182-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 11.940061,5.9832368 a 0.06,0.06 0 1 1 0.12,0 0.06,0.06 0 1 1 -0.12,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path184-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 0.71,-0.7 a 0.26,0.26 0 1 1 0.52,0 0.26,0.26 0 1 1 -0.52,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path186-6"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 15.71,-0.7 a 0.26,0.26 0 1 1 0.52,0 0.26,0.26 0 1 1 -0.52,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path188-4"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 0.71,5.7 a 0.26,0.26 0 1 1 0.52,0 0.26,0.26 0 1 1 -0.52,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path190-9"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 15.71,5.7 a 0.26,0.26 0 1 1 0.52,0 0.26,0.26 0 1 1 -0.52,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path192-5"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 7.6808519,-2.5 a 1.5200001,1.5200001 0 1 1 3.0400001,0 1.5200001,1.5200001 0 1 1 -3.0400001,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path194-0"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 17.055,7.5 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path196-4"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 9.0783519,-0.6 a 0.1225,0.1225 0 1 1 0.245,0 0.1225,0.1225 0 1 1 -0.245,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path198-8"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 10.925,2.5 a 0.395,0.395 0 1 1 0.79,0 0.395,0.395 0 1 1 -0.79,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path200-7"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 7.4329036,-3.45 a 0.1225,0.1225 0 1 1 0.245,0 0.1225,0.1225 0 1 1 -0.245,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path202-1"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 1.11,-4.735 a 0.16,0.16 0 1 1 0.32,0 0.16,0.16 0 1 1 -0.32,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path204-7"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 10.7238,-3.45 a 0.1225,0.1225 0 1 1 0.245,0 0.1225,0.1225 0 1 1 -0.245,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path206-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 1.11,9.735 a 0.16,0.16 0 1 1 0.32,0 0.16,0.16 0 1 1 -0.32,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path208-7"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 17.055,-2.5 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path210-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 0.575,-3.7215909 a 0.395,0.395 0 1 1 0.79,0 0.395,0.395 0 1 1 -0.79,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path212-2"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 15.51,9.735 a 0.16,0.16 0 1 1 0.32,0 0.16,0.16 0 1 1 -0.32,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path214"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 8.3199999,-4.735 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path216"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 15.51,-4.735 a 0.16,0.16 0 1 1 0.32,0 0.16,0.16 0 1 1 -0.32,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path218"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 8.3199999,9.735 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path220"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m -0.3958488,-2.5 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path222"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m -0.415,7.5 a 0.15,0.15 0 1 1 0.3,0 0.15,0.15 0 1 1 -0.3,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path224"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 0.575,8.7215909 a 0.395,0.395 0 1 1 0.79,0 0.395,0.395 0 1 1 -0.79,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         id="path226"
+         transform="matrix(1,0,0,-1,0.53,10)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 4.82,2.5 a 0.8,0.8 0 1 1 1.6,0 0.8,0.8 0 1 1 -1.6,0 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g842"
+       transform="matrix(9.9999998,0,0,9.9999998,321.78071,18.578123)">
+      <path
+         d="m -2.84,0 a 2.2,2.2 0 1 1 4.4,0 2.2,2.2 0 1 1 -4.4,0 z"
+         shaper:cutDepth="0"
+         shaper:pathType="exterior"
+         transform="matrix(1,0,0,-1,2.84,2.2)"
+         id="path2-61"
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -0.81,-0.9 a 0.17,0.17 0 1 1 0.34,0 0.17,0.17 0 1 1 -0.34,0 z"
+         shaper:cutDepth="0"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,2.84,2.2)"
+         id="path4-0"
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 0.09,0 A 0.17,0.17 0 1 1 0.43,0 0.17,0.17 0 1 1 0.09,0 Z"
+         shaper:cutDepth="0"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,2.84,2.2)"
+         id="path6-6"
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -2.4454483,0.95 a 0.16,0.16 0 1 1 0.32,0 0.16,0.16 0 1 1 -0.32,0 z"
+         shaper:cutDepth="0"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,2.84,2.2)"
+         id="path8-1"
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -0.8,-1.9 a 0.16,0.16 0 1 1 0.32,0 0.16,0.16 0 1 1 -0.32,0 z"
+         shaper:cutDepth="0"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,2.84,2.2)"
+         id="path10-5"
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 0.8454483,0.95 a 0.16,0.16 0 1 1 0.32,0 0.16,0.16 0 1 1 -0.32,0 z"
+         shaper:cutDepth="0"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,2.84,2.2)"
+         id="path12-9"
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -1.71,0 a 0.17,0.17 0 1 1 0.34,0 0.17,0.17 0 1 1 -0.34,0 z"
+         shaper:cutDepth="0"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,2.84,2.2)"
+         id="path14-4"
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -0.81,0.9 a 0.17,0.17 0 1 1 0.34,0 0.17,0.17 0 1 1 -0.34,0 z"
+         shaper:cutDepth="0"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,2.84,2.2)"
+         id="path16-9"
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -1.19,0 a 0.55,0.55 0 1 1 1.1,0 0.55,0.55 0 1 1 -1.1,0 z"
+         shaper:cutDepth="0"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,2.84,2.2)"
+         id="path18-0"
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2-1"
+       shaper:pathType="exterior"
+       shaper:cutDepth="0"
+       d="m 267.40001,131.4 h 16.4 v -6 h -1 v -2.7 h 1 v -1.5 a 0.50000001,0.50000001 0 0 1 0.5,-0.5 h 2.4 a 0.50000001,0.50000001 0 0 1 0.5,0.5 v 1.5 h 1 v 2.7 h -1 v 6 h 16.4 v 5.1 h 35.8 v -5.1 h 16.35 v -6 h -1 v -2.7 h 1 v -1.5 a 0.50000001,0.50000001 0 0 1 0.5,-0.5 h 2.4 a 0.50000001,0.50000001 0 0 1 0.5,0.5 v 1.5 h 1 v 2.7 h -1 v 6 h 16.35 v -12.475 h -5.4 V 108.15 h -6 v 1 h -2.7 v -0.79765 h -1.5 a 0.50000001,0.50000001 0 0 1 -0.5,-0.5 v -2.4 a 0.50000001,0.50000001 0 0 1 0.5,-0.5 h 1.5 V 103.75 h 2.7 v 1 h 6 V 93.975 h 5.4 V 81.5 h -16.35 v 6 h 1 v 2.7 h -1 v 1.5 a 0.50000001,0.50000001 0 0 1 -0.5,0.5 h -2.4 a 0.50000001,0.50000001 0 0 1 -0.5,-0.5 v -1.5 h -1 v -2.7 h 1 v -6 h -16.35 v -5.399999 h -35.8 V 81.5 h -16.4 v 6 h 1 v 2.7 h -1 v 1.5 a 0.50000001,0.50000001 0 0 1 -0.5,0.5 h -2.4 a 0.50000001,0.50000001 0 0 1 -0.5,-0.5 v -1.5 h -1 v -2.7 h 1 v -6 h -16.4 v -5.399999 h -35.8 V 81.5 H 215.25 v 6 h 1 v 2.7 h -1 v 1.5 a 0.50000001,0.50000001 0 0 1 -0.5,0.5 h -2.4 a 0.50000001,0.50000001 0 0 1 -0.5,-0.5 v -1.5 h -1 v -2.7 h 1 v -6 H 195.5 v 12.475 h 5.4 v 10.775 h 6 v -1 h 2.7 v 1.20235 h 1.5 a 0.50000001,0.50000001 0 0 1 0.5,0.5 v 2.4 a 0.50000001,0.50000001 0 0 1 -0.5,0.5 h -1.5 V 109.15 h -2.7 v -1 h -6 v 10.775 h -5.4 V 131.4 h 16.35 v -6 h -1 v -2.7 h 1 v -1.5 a 0.50000001,0.50000001 0 0 1 0.5,-0.5 h 2.4 a 0.50000001,0.50000001 0 0 1 0.5,0.5 v 1.5 h 1 v 2.7 h -1 v 6 h 16.35001 v 5.1 h 35.8 z"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g1594-0"
+       transform="matrix(9.9999998,0,0,9.9999998,11.999964,11.000038)">
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.99999273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-3-3"
+         transform="matrix(1,0,0,-1,4.9882235,6.1)"
+         shaper:pathType="exterior"
+         shaper:cutDepth="0"
+         d="M 0,0.54 V 0 h 4.98 v 0.54 h 2.34 v 0.6 h -0.1 v 0.27 h 0.1 V 1.56 A 0.05,0.05 -180 0 0 7.37,1.61 H 7.61 A 0.05,0.05 90 0 0 7.66,1.56 V 1.41 h 0.1 V 1.14 h -0.1 v -0.6 h 1.8 v 1.2630885 h 0.5082235 v 2.475 L 9.46,4.2875 V 5.56 h -1.8 v -0.6 h 0.1 V 4.69 H 7.66 V 4.54 A 0.05,0.05 0 0 0 7.61,4.49 H 7.37 A 0.05,0.05 -90 0 0 7.32,4.54 v 0.15 h -0.1 v 0.27 h 0.1 v 0.6 H 4.98 V 6.1 H 0 V 5.56 h -2.34 v -0.6 h 0.1 V 4.69 h -0.1 V 4.54 A 0.05,0.05 0 0 0 -2.39,4.49 h -0.24 a 0.05,0.05 -90 0 0 -0.05,0.05 v 0.15 h -0.1 v 0.27 h 0.1 v 0.6 h -1.8 V 4.2875 L -4.9882235,4.27809 v -2.475 H -4.48 V 0.54 h 1.8 v 0.6 h -0.1 v 0.27 h 0.1 v 0.15 a 0.05,0.05 -180 0 0 0.05,0.05 h 0.24 A 0.05,0.05 90 0 0 -2.34,1.56 V 1.41 h 0.1 V 1.14 h -0.1 v -0.6 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.99999273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4-04"
+         transform="matrix(1,0,0,-1,4.9882235,6.1)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m 9.5382235,3.05 a 0.16,0.16 0 1 1 0.32,0 0.16,0.16 0 1 1 -0.32,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.99999273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path6-4"
+         transform="matrix(1,0,0,-1,4.9882235,6.1)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0"
+         d="m -4.8782235,3.05 a 0.16,0.16 0 1 1 0.32,0 0.16,0.16 0 1 1 -0.32,0 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
