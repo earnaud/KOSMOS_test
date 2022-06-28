@@ -1,7 +1,7 @@
 KOSMOS_3.0
 ==========
 
-.. image:: _static/images/inte3D_legende.png
+.. image:: docs/_static/images/inte3D_legende.png
 
 Cette œuvre est mise à disposition selon les termes de la `Licence
 Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage
