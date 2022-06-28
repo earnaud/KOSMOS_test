@@ -1,8 +1,5 @@
 KOSMOS_3.0
 ==========
-
-.. |Connecteur| image:: docs/pictures_assembly_process/Camera_case/DSC_0142.JPG
-                :scale: 50 %
                 
 Cette œuvre est mise à disposition selon les termes de la `Licence
 Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage
