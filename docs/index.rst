@@ -1,9 +1,6 @@
 Guide d'assemblage
 ==========
 
-.. image:: docs/_static/images/inte3D_legende.png
-   :scale: 5 %
-
 Cette œuvre est mise à disposition selon les termes de la `Licence
 Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage
 dans les Mêmes Conditions 4.0
