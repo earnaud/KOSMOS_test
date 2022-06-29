@@ -1,6 +1,0 @@
-site_name: KOSMOS
-nav:
-
-    - Assembly:
-        - Guide d'assemblage : index.rst
-        - Graver un PCB: 220621_GravurePCB.rst
